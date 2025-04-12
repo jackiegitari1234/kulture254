@@ -1,5 +1,5 @@
 const Homepage = () => {
-  return ( <>Kulture254</> );
+  return  <>Kulture254</> ;
 }
  
 export default Homepage;
