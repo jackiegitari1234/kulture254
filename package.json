@@ -1,0 +1,23 @@
+{
+  "name": "kulture254",
+  "version": "1.0.0",
+  "description": "eCommerce application built with the MERN stack",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackiegitari1234/kulture254.git"
+  },
+  "author": "jackie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackiegitari1234/kulture254/issues"
+  },
+  "homepage": "https://github.com/jackiegitari1234/kulture254#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
